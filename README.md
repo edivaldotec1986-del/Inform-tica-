@@ -12,3 +12,6 @@ https://github.com/user-attachments/assets/3bab3a2c-43f5-4b50-bbe3-5d4e16491aa9
 
 #Atividade desenvolvida em classe com programa excel e csv função somase e cont.se
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f533774e-0444-4c7a-a5e7-dc0c4a7fbf7c" />
+
+#Atividade desenvolvida em classe com programa excel, usando funções para soma de valores de tabelas de valores de dados abertos da cidade de São José dos Campos
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/edac27ca-e2f1-4c6f-b2c8-f8cc47f430ba" />
