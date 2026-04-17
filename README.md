@@ -20,7 +20,6 @@ https://github.com/user-attachments/assets/3bab3a2c-43f5-4b50-bbe3-5d4e16491aa9
 <img width="1170" height="609" alt="WhatsApp Image 2026-04-15 at 22 26 07" src="https://github.com/user-attachments/assets/1c6980f5-1275-4282-9266-f5bfe4bfa5dd" />
 
 #Atividade desenvolvida em classe utilizando programa excel, nesta aula utilimos dados abertos do estado de São Paulo, tema escolhido codigo dos municípios da região, foram formuladas cinco questões sobre o tema utilizando as funções =CONT.SE() =CONT.VALORES =MÍN() =MÁXIMO() 
-RA São José dos Campos
 <img width="209" height="21" alt="image" src="https://github.com/user-attachments/assets/3f0c60da-4109-47ae-9d5a-ee360021a913" />
 
 
