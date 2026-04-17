@@ -18,6 +18,8 @@ https://github.com/user-attachments/assets/3bab3a2c-43f5-4b50-bbe3-5d4e16491aa9
 
 [balancete_receita.xlsx](https://github.com/user-attachments/files/26805595/balancete_receita.xlsx)
 
+<img width="1740" height="687" alt="image" src="https://github.com/user-attachments/assets/a782d8c8-0ff2-4ea1-9fc7-1150009d0794" />
+
 
 ## Atividade desenvolvida em classe com programa excel e csv função somase e cont.se
 <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f533774e-0444-4c7a-a5e7-dc0c4a7fbf7c" />
