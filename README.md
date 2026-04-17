@@ -22,3 +22,5 @@ https://github.com/user-attachments/assets/3bab3a2c-43f5-4b50-bbe3-5d4e16491aa9
 #Atividade desenvolvida em classe utilizando programa excel, nesta aula utilimos dados abertos do estado de São Paulo, tema escolhido codigo dos municípios da região, foram formuladas cinco questões sobre o tema utilizando as funções =CONT.SE() =CONT.VALORES =MÍN() =MÁXIMO() 
 
 #Certificado de conclusão do curso de Python, carga horária de 20 horas, conteúdo on line.
+<img width="1122" height="763" alt="image" src="https://github.com/user-attachments/assets/b23cf7db-4ef8-4b06-9ad9-c9a0f9746565" />
+
