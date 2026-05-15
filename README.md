@@ -55,3 +55,6 @@ https://github.com/user-attachments/assets/3bab3a2c-43f5-4b50-bbe3-5d4e16491aa9
 ## Atividade executada em classe Regressão linear Icecream Kaggles 
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/a4fa8324-9893-47a6-9c1d-8d4b1243d4c1" />
 
+## Atividade executada em classe com Python Regressão linear com dados do Kaggle Icecream 
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/7ed9aec6-dbac-4725-8493-bbd17f59fef6" />
+
