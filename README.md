@@ -51,3 +51,7 @@ https://github.com/user-attachments/assets/3bab3a2c-43f5-4b50-bbe3-5d4e16491aa9
 
 ## Atividade executada em classe Dados abertos de São Paulo emprego e desemprego 2020
 <img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/97f0e46f-77c3-470f-82ad-1ed36e912c19" />
+
+## Atividade executada em classe Regressão linear Icecream Kaggles 
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/a4fa8324-9893-47a6-9c1d-8d4b1243d4c1" />
+
